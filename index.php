@@ -22,7 +22,6 @@
 <div class="col s8">
 
 
-<<<<<<< HEAD
 <!-- -------------------------- -->
 <!-- !!! CHANGE COLOR BELOW !!! -->
 
@@ -31,11 +30,6 @@
 <!-- !!! CHANGE COLOR ABOVE !!! -->
 <!-- -------------------------- -->
 
-=======
-// !!! CHANGE COLOR BELOW !!!
-<div class="card pink">
-// !!! CHANGE COLOR ABOVE !!!
->>>>>>> 5abe2d72071a87277801a112460d57b55c160a47
 
 <div class="card-content white-text">
 <div class="card-title">container-info</div>
