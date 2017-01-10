@@ -22,9 +22,14 @@
 <div class="col s8">
 
 
-// !!! CHANGE COLOR BELOW !!!
-<div class="card yellow">
-// !!! CHANGE COLOR ABOVE !!!
+<!-- -------------------------- -->
+<!-- !!! CHANGE COLOR BELOW !!! -->
+
+<div class="card purple">
+
+<!-- !!! CHANGE COLOR ABOVE !!! -->
+<!-- -------------------------- -->
+
 
 <div class="card-content white-text">
 <div class="card-title">container-info</div>
