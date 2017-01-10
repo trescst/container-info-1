@@ -9,7 +9,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/js/materialize.min.js"></script>
 <!-- jidenticon JS -->
 <script src="//cdn.jsdelivr.net/jdenticon/1.3.2/jdenticon.min.js" async></script>
-<title>Container Info</title>
+<title>container-info</title>
 </head>
 <body>
 <?php
