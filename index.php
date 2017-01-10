@@ -20,9 +20,14 @@
 <div class="row">
 <div class="col s2">&nbsp;</div>
 <div class="col s8">
-<div class="card blue">
+
+
+// !!! CHANGE COLOR BELOW !!!
+<div class="card yellow">
+// !!! CHANGE COLOR ABOVE !!!
+
 <div class="card-content white-text">
-<div class="card-title">Container Info</div>
+<div class="card-title">container-info</div>
 </div>
 <div class="card-content white">
 <table class="bordered">
