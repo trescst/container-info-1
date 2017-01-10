@@ -23,7 +23,7 @@
 
 
 // !!! CHANGE COLOR BELOW !!!
-<div class="card yellow">
+<div class="card pink">
 // !!! CHANGE COLOR ABOVE !!!
 
 <div class="card-content white-text">
