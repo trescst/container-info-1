@@ -25,7 +25,7 @@
 <!-- -------------------------- -->
 <!-- !!! CHANGE COLOR BELOW !!! -->
 
-<div class="card purple">
+<div class="card yellow">
 
 <!-- !!! CHANGE COLOR ABOVE !!! -->
 <!-- -------------------------- -->
